@@ -1,1 +1,1 @@
-{"name": "CodeFlow-Ai","version": "1.0.0","private": true,"workspaces": ["packages/*"]}
+{\n  "name": "CodeFlow-Ai",\n  "version": "1.0.0",\n  "private": true,\n  "scripts": {\n    "dev": "next dev",\n    "build": "next build",\n    "start": "next start"\n  },\n  "dependencies": {\n    "next": "latest",\n    "react": "latest",\n    "react-dom": "latest"\n  },\n  "devDependencies": {}\n}
