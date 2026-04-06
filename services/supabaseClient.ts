@@ -1,0 +1,1 @@
+// supabaseClient.ts content goes here

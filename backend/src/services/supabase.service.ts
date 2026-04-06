@@ -1,0 +1,1 @@
+// supabase.service.ts content goes here
